@@ -1,5 +1,5 @@
 ---
-title: "Robot in the mirror: toward an embodied computational model of mirror self-recognition"
+title: "Robot in the Mirror: Toward an Embodied Computational Model of Mirror Self-Recognition"
 collection: publications
 permalink: /publication/2021-robotinmirror
 date: 2021-01-21
