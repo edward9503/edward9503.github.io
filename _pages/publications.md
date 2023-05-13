@@ -23,7 +23,7 @@ author_profile: true
 </colgroup>
 <tbody>
 <tr>
-  <td markdown="span"> [<img src="/assets/img/publications/wbcontrol-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://www.youtube.com/watch?v=TODO)</td>
+  <td markdown="span"> [<img src="/images/research/epr.png" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://www.youtube.com/watch?v=TODO)</td>
   <td markdown="span">[Passive Whole-body Control for Quadruped Robots: Experimental Validation over Challenging Terrain](/publications/2021-robotinmirror.html).
   S. Fahmi<sup>&#x2020;</sup>, **C. Mastalli**<sup>&#x2020;</sup>, M. Focchi, D. G. Caldwell and C. Semini
   <br> *IEEE Robotics and Automation Letters (RA-L), 2019*</td>
