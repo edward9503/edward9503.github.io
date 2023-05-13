@@ -15,4 +15,20 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+#### TEST
+<table>
+<colgroup>
+  <col width="20%" />
+  <col width="80%" />
+</colgroup>
+<tbody>
+<tr>
+  <td markdown="span"> [<img src="/assets/img/publications/wbcontrol-compressed.gif" align="right" alt="Drawing" style="height: 70px; margin:0px 10px"/>](https://www.youtube.com/watch?v=TODO)</td>
+  <td markdown="span">[Passive Whole-body Control for Quadruped Robots: Experimental Validation over Challenging Terrain](/publications/wbcontrol18ral.html).
+  S. Fahmi<sup>&#x2020;</sup>, **C. Mastalli**<sup>&#x2020;</sup>, M. Focchi, D. G. Caldwell and C. Semini
+  <br> *IEEE Robotics and Automation Letters (RA-L), 2019*</td>
+</tr>
+</tbody>
+</table>
+
 <sup>*</sup> Equal authorship
