@@ -1,11 +1,11 @@
 ---
 title: "Legged Robot Locomotion"
 layout: single-portfolio
-excerpt: "<img src='/images/research/epr.png' alt=''>"
+excerpt: "<img src='/images/research/legged_locomotion.png' alt=''>"
 collection: research
 order_number: 10
 header: 
-  og_image: "research/epr.png"
+  og_image: "research/legged_locomotion.png"
 ---
 
 <style>
