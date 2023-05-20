@@ -1,9 +1,9 @@
 ---
-title: "Locomotion"
+title: "Manipulation"
 layout: single-portfolio
-excerpt: "<img src='/images/research/legged_locomotion2.png' alt=''>"
+excerpt: "<img src='/images/research/robot_manipulation1.png' alt=''>"
 collection: research
-order_number: 10
+order_number: 20
 header: 
   og_image: "research/legged_locomotion.png"
 ---

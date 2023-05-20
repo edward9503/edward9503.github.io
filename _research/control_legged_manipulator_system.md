@@ -1,9 +1,9 @@
 ---
-title: "Locomotion"
+title: "Legged Manipulator System"
 layout: single-portfolio
-excerpt: "<img src='/images/research/legged_locomotion2.png' alt=''>"
+excerpt: "<img src='/images/research/control_teleop_legged_manipulator_system1.png' alt=''>"
 collection: research
-order_number: 10
+order_number: 30
 header: 
   og_image: "research/legged_locomotion.png"
 ---

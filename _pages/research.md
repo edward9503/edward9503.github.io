@@ -7,7 +7,7 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My academic research falls into three main areas: legged robot locomotion, robot arm manipulation, and control of the legged manipulator system. 
+My academic research falls into three main areas: legged robot locomotion, robot arm manipulation, and control/teleoperation of the legged manipulator system. 
 
 <!-- My other main research agenda uses advanced methods to develop new measures of
 institutions. One project uses Bayesian item response theory to measure the
