@@ -26,7 +26,7 @@ Robust and reliable locomotion controllers are essential to the tasks that requi
 <tbody>
 <tr style="width: 100%">
   <td markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;"> [<img src="/images/research/Humanoids_OILC_for_VRP_Walking_2021/OILC_for_VRP_Walking_2021.gif" align="right" alt="Drawing" style="height: 85px; width: 130px; margin:0px 10px"/>](https://youtu.be/or2IBHmtVnk)</td>
-  <td markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;">[Online Virtual Repellent Point Adaptation for Biped Walking using Iterative Learning Control](/../publications/2021-ILC4VRPWalking.md).
+  <td markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;">[Online Virtual Repellent Point Adaptation for Biped Walking using Iterative Learning Control](/publication/2021-Online-VRP-Plus-ILC).
   <br> <b>Shengzhi Wang</b>, George Mesesan, Johannes Englsberger, Dongheui Lee, and Christian Ott.
   <br> *IEEE-RAS 20th International Conference on Humanoid Robots (Humanoids), 2021*
   <br> 

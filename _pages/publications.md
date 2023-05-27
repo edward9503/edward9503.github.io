@@ -20,6 +20,30 @@ td, th {border:hidden;}
   {% include archive-single.html %}
 {% endfor %} -->
 
+## 2023
+<font size="5">
+<table style="width: 100%">
+<colgroup>
+  <col width="20%" />
+  <col width="80%" />
+</colgroup>
+<tbody>
+<tr style="width: 100%">
+  <td markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;"> [<img src="/images/research/Case_Large_Scale_Cloth_Spreading_2023/Large_Scale_Cloth_Spreading.gif" align="right" alt="Drawing" style="height: 85px; width: 130px; margin:0px 10px"/>](https://youtu.be/HVYkUj6BnlM)</td>
+  <td markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;">[Model-Free Large-Scale Cloth Spreading With Mobile Manipulation: Initial Feasibility Study](/publication/2023-Large_Cloth_Spreading).
+  <br> \*Xiangyu Chu, <b>\*Shengzhi Wang</b>, Minjian Feng, Jiaxi Zheng, Yuxuan Zhao, Jing Huang, and K. W. Samuel Au.
+  <br> *IEEE International Conference on Automation Science and Engineering (CASE), 2023*
+  <br> 
+  <!-- <a href="https://doi.org/10.1109/HUMANOIDS47582.2021.9555676"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+  <a href="/files/pdf/publications/Online_Virtual_Repellent_Point_Adaptation_for_Biped_Walking_using_Iterative_Learning_Control.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> -->
+  <!-- <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
+  <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>   -->
+  </td>
+</tr>
+</tbody>
+</table>
+</font>
+
 ## 2021
 <font size="5">
 <table style="width: 100%">

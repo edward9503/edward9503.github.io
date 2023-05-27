@@ -1,7 +1,7 @@
 ---
 title: "Manipulation"
 layout: single-portfolio
-excerpt: "<img src='/images/research/robot_manipulation1.png' alt=''>"
+excerpt: "<img src='/images/research/robot_manipulation2.png' alt=''>"
 collection: research
 order_number: 20
 header: 
@@ -13,9 +13,9 @@ table, tr {border:hidden;}
 td, th {border:hidden;}
 </style>
 
-Robust and reliable locomotion controllers are essential to the tasks that requires mobile manipulator platforms, e.g., the legged manipulation tasks over uneven terrain. To this end, I try to explore the ways to improve the locomotion capability for the legged robots. 
+Fine manipulation is still a challenging task for robot arms. I want to explore the way to realize an autonomous fine manipulation robot system. 
 
-## Article
+## Related Project
 
 <font size="5">
 <table style="width: 100%">
@@ -25,15 +25,20 @@ Robust and reliable locomotion controllers are essential to the tasks that requi
 </colgroup>
 <tbody>
 <tr style="width: 100%">
-  <td markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;"> [<img src="/images/research/Humanoids_OILC_for_VRP_Walking_2021/OILC_for_VRP_Walking_2021.gif" align="right" alt="Drawing" style="height: 85px; width: 130px; margin:0px 10px"/>](https://youtu.be/or2IBHmtVnk)</td>
-  <td markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;">[Online Virtual Repellent Point Adaptation for Biped Walking using Iterative Learning Control](/../publications/2021-ILC4VRPWalking.md).
-  <br> <b>Shengzhi Wang</b>, George Mesesan, Johannes Englsberger, Dongheui Lee, and Christian Ott.
-  <br> *IEEE-RAS 20th International Conference on Humanoid Robots (Humanoids), 2021*
-  <br> 
-  <a href="https://doi.org/10.1109/HUMANOIDS47582.2021.9555676"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-  <a href="/files/pdf/publications/Online_Virtual_Repellent_Point_Adaptation_for_Biped_Walking_using_Iterative_Learning_Control.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-  <!-- <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
-  <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>   -->
+  <td markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;"> [<img src="/images/project/robothon2023_setup.png" align="right" alt="Drawing" style="height: 85px; width: 130px; margin:0px 10px"/>](https://github.com/edward9503/CURM1.0_Robothon2023/tree/main/report)</td>
+  <td markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;">[2023 Robothon Grand Challenge.](https://automatica-munich.com/en/munich-i/robothon/)
+  </td>
+</tr>
+<tr height ="10px"></tr>
+<tr style="width: 100%">
+  <td markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;"> [<img src="/images/project/2020_robothon_grand_challenge.gif" align="right" alt="Drawing" style="height: 85px; width: 130px; margin:0px 10px"/>](https://youtu.be/G2cqTU4V1Vk)</td>
+  <td markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;">[2020 Robothon Grand Challenge.](https://automatica-munich.com/en/munich-i/robothon/)
+  </td>
+</tr>
+<tr height ="10px"></tr>
+<tr style="width: 100%">
+  <td markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;"> [<img src="/images/project/2020_advanced_robot_course_project.gif" align="right" alt="Drawing" style="height: 85px; width: 130px; margin:0px 10px"/>](https://youtu.be/uuRjdOSwBDk)</td>
+  <td markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;">2020 Robot Hackathon: Wastes Classification Using Robot Arm.
   </td>
 </tr>
 </tbody>
