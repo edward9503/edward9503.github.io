@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Shengzhi Wang"
-excerpt: "About me"
+excerpt: "About Shengzhi Wang"
 author_profile: true
 redirect_from: 
   - /about/
