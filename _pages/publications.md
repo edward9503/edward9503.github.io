@@ -29,6 +29,19 @@ td, th {border:hidden;}
 </colgroup>
 <tbody>
 <tr style="width: 100%">
+  <td markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;"> [<img src="/images/research/ICRA2023_PIDC_Force_Control/PIDC_Force.png" align="right" alt="Drawing" style="height: 85px; width: 130px; margin:0px 10px"/>](https://youtu.be/BO6XyO_JYps)</td>
+  <td markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;">[Towards Exact Interaction Force Control for Underactuated Quadrupedal Systems with Orthogonal Projection and Quadratic Programming](/publication/2023-PIDC_Force_Control).
+  <br> <b>Shengzhi Wang</b>, Xiangyu Chu, and K. W. Samuel Au.
+  <br> *IEEE International Conference on Robotics and Automation (ICRA), 2023*
+  <br> 
+  <a href="https://ieeexplore.ieee.org/abstract/document/10160835"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+  <a href="/files/pdf/publications/Towards_Exact_Interaction_Force_Control_for_Underactuated_Quadrupedal_Systems_with_Orthogonal_Projection_and_Quadratic_Programming.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+  <!-- <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
+  <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>   -->
+  </td>
+</tr>
+<tr height ="10px"></tr>
+<tr style="width: 100%">
   <td markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;"> [<img src="/images/research/Case_Large_Scale_Cloth_Spreading_2023/Large_Scale_Cloth_Spreading.gif" align="right" alt="Drawing" style="height: 85px; width: 130px; margin:0px 10px"/>](https://youtu.be/HVYkUj6BnlM)</td>
   <td markdown="span" style="padding: 0.5vw; border: none; max-width:100%; max-height:10%; background: transparent;">[Model-Free Large-Scale Cloth Spreading With Mobile Manipulation: Initial Feasibility Study](/publication/2023-Large_Cloth_Spreading).
   <br> \*Xiangyu Chu, <b>\*Shengzhi Wang</b>, Minjian Feng, Jiaxi Zheng, Yuxuan Zhao, Jing Huang, and K. W. Samuel Au.
