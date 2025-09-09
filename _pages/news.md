@@ -3,6 +3,11 @@ permalink: /news/
 title: "News"
 ---
 
+## 2025
+* [Sept.] Give a talk with the title "Safety, Viewpoint, and Team Coordination in Legged Manipulation: From Single-Robot Teleoperation to Bimanual Systems" at [CRL](https://crl.ethz.ch/), ETH, the group of Prof. [Stelian Coros](https://crl.ethz.ch/people/coros/index.html).
+
+* [Mar.] Start visiting [RSL](https://rsl.ethz.ch/), ETH, hosted by Prof. [Marco Hutter](https://rsl.ethz.ch/the-lab/people/person-detail.MTIxOTEx.TGlzdC8yNDQxLC0xNDI1MTk1NzM1.html).
+
 ## 2023
 * [Sept.] One paper is accepted to Humanoids 2023.
 
