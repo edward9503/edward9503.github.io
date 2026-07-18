@@ -8,9 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. student in the [BMT](https://biomedirobotics.com/) group at The Chinese University of Hong Kong (CUHK), supervised by Prof. [Samuel Kwok Wai Au](https://www4.mae.cuhk.edu.hk/peoples/au-kwok-wai-samuel/). My research interests are legged robot locomotion, legged manipulation, whole-body control and teleoperation of legged manipulator system, and cooperation control. 
+Welcome! I am a Ph.D. student in the [BMT](https://biomedirobotics.com/) group at The Chinese University of Hong Kong (CUHK), supervised by Prof. [Samuel Kwok Wai Au](https://www4.mae.cuhk.edu.hk/peoples/au-kwok-wai-samuel/). My research interests include legged robot locomotion, loco-manipulation, whole-body control, teleoperation of legged-manipulator systems, and multi-robot cooperative control.
+{: .about-lead}
 
-Prior to CUHK, I earned my dual B.Sc. degrees from China University of Mining and Technology, China, and the University of Duisburg-Essen, Germany, in 2018, respectively. I received my M.Sc. degree with distinction from the Department of Electrical and Computer Engineering, the Technical University of Munich, Germany, in 2021. In the meantime, I was also a master thesis student at German Aerospace Center (DLR), Germany, supervised by Prof. [Christian Ott](https://www.acin.tuwien.ac.at/en/staff/cott/), focusing on humanoid robot locomotion control. 
+I welcome students interested in research projects or internships, as well as potential research collaborators. Please see my [research interests and current topics](/research/#students-and-collaborators) for details.
+{: .about-collaboration}
 
-I have a passion for robotics and want to build a bipedal robot that can learn and understand the world around it in my free time. Besides robotics, I have a love for learning and sports. 
+## Background
 
+Prior to joining CUHK, I earned dual B.Sc. degrees from China University of Mining and Technology, China, and the University of Duisburg-Essen, Germany, in 2018. I received my M.Sc. degree with distinction in Electrical and Computer Engineering from the Technical University of Munich, Germany, in 2021. I also completed my master's thesis at the German Aerospace Center (DLR), supervised by Prof. [Christian Ott](https://www.acin.tuwien.ac.at/en/staff/cott/), focusing on humanoid robot locomotion control.
+
+## Beyond Research
+
+I am passionate about robotics and hope to build a bipedal robot that can learn from and understand the world around it. Outside robotics, I enjoy learning and sports.

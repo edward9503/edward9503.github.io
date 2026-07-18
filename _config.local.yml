@@ -1,0 +1,4 @@
+# Local preview settings. Use with:
+# bundle exec jekyll serve --config _config.yml,_config.local.yml
+url: http://127.0.0.1:4000
+baseurl: ""

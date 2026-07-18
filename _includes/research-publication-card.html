@@ -1,0 +1,9 @@
+<div class="research-publication">
+  <a class="research-publication__image" href="{{ include.url }}">
+    <img src="{{ include.image }}" alt="{{ include.alt }}" loading="lazy" />
+  </a>
+  <div class="research-publication__body">
+    <a href="{{ include.url }}">{{ include.title }}</a>
+    {% if include.venue %}<div class="research-publication__meta"><em>{{ include.venue }}</em></div>{% endif %}
+  </div>
+</div>

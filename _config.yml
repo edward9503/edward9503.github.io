@@ -123,6 +123,7 @@ include:
   - _pages
   - files
 exclude:
+  - _config.local.yml
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
